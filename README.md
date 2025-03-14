@@ -1,7 +1,7 @@
-# Internet Access Login Form - Sürt University
+# Internet Access Login Form - Siirt University
 
 ## Overview
-This document provides detailed information about the Internet Access Login Form used by Sürt University. The form is designed to allow students and staff to securely access the university's internet services.
+This document provides detailed information about the Internet Access Login Form used by Siirt University. The form is designed to allow students and staff to securely access the university's internet services.
 
 ## Form Fields
 
