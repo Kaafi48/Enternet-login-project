@@ -1,39 +1,54 @@
-Overview
-This document provides information about the Internet Access Login Form used by Sürt University. The form is designed for students and staff to access the university's internet services securely.
+# Internet Access Login Form - Sürt University
 
-Fields in the Form
-T.C or Sacili No:
+## Overview
+This document provides detailed information about the Internet Access Login Form used by Sürt University. The form is designed to allow students and staff to securely access the university's internet services.
 
-This field requires the user to enter their Turkish Republic Identification Number (T.C. Kimlik No) or Sacili Number. This is typically used as a unique identifier for students and staff.
+## Form Fields
 
-Parolanız (Your Password):
+### 1. **T.C or Sacili No**
+   - **Description**: Enter your Turkish Republic Identification Number (T.C. Kimlik No) or Sacili Number.
+   - **Purpose**: This unique identifier is used to authenticate your identity.
 
-Users must enter their password associated with their account to gain internet access.
+### 2. **Parolanız (Your Password)**
+   - **Description**: Enter the password associated with your account.
+   - **Purpose**: This ensures that only authorized users can access the internet services.
 
-Login Button:
+### 3. **Giriş Yapınız (Login)**
+   - **Description**: Click this button to submit your credentials and attempt to log in.
+   - **Purpose**: Initiates the authentication process.
 
-After entering the required information, users can click the "Giriş Yapınız" (Login) button to attempt to access the internet.
+### 4. **E-devlet Giriş Yapınız (E-government Login)**
+   - **Description**: An alternative login method using the e-devlet (e-government) system.
+   - **Purpose**: Provides an additional authentication option for users.
 
-E-devlet Login:
+## Error Messages
 
-There is an option to log in using the e-devlet (e-government) system, which might be an alternative method for authentication.
+### 1. **Login failed, Invalid user name/password**
+   - **Description**: This message appears if the entered T.C/Sacili No or password is incorrect.
+   - **Action**: Double-check your credentials and try again.
 
-Error Messages
-Login failed, Invalid user name/password:
+### 2. **Please contact the administrator**
+   - **Description**: This message appears if the login issue persists.
+   - **Action**: Contact the system administrator for further assistance.
 
-This message appears if the entered T.C/Sacili No or password is incorrect. Users should double-check their credentials and try again.
+## Additional Information
 
-Please contact the administrator:
+### **Internet Hizmet Sözleşmesi Aydınlatma Metni (Internet Service Agreement and Disclosure Text)**
+   - **Description**: This document outlines the terms and conditions for using the university's internet services.
+   - **Purpose**: Users are encouraged to review this text to understand their rights and responsibilities.
 
-If the issue persists, users are advised to contact the system administrator for further assistance.
-
-Additional Information
-Internet Hizmet Sözleşmesi Aydınlatma Metni:
-
-This refers to the Internet Service Agreement and Disclosure Text, which likely outlines the terms and conditions for using the university's internet services. Users are encouraged to review this document for a better understanding of their rights and responsibilities.
-
-Support
+## Support
 For any issues related to login or internet access, please contact the Sürt University IT support team or the system administrator.
 
+---
 
-![Screenshot 2025-03-14 214839](https://github.com/user-attachments/assets/def7857a-2e30-4e07-8254-7221df58ca66)
+This README is intended to guide users through the login process and provide necessary information for troubleshooting common issues.
+
+
+
+
+
+![Screenshot 2025-03-14 214839](https://github.com/user-attachments/assets/bb2f2881-9808-47e4-aaa6-6560190fc844)
+
+
+
