@@ -34,4 +34,6 @@ This refers to the Internet Service Agreement and Disclosure Text, which likely 
 
 Support
 For any issues related to login or internet access, please contact the Sürt University IT support team or the system administrator.
+
+
 ![Screenshot 2025-03-14 214839](https://github.com/user-attachments/assets/def7857a-2e30-4e07-8254-7221df58ca66)
