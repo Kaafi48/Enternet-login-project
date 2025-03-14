@@ -48,7 +48,8 @@ This README is intended to guide users through the login process and provide nec
 
 
 
-![Screenshot 2025-03-14 214839](https://github.com/user-attachments/assets/bb2f2881-9808-47e4-aaa6-6560190fc844)
+
+![Screenshot 2025-03-14 224242](https://github.com/user-attachments/assets/0d3f5751-7f57-4721-9b75-c427324af61c)
 
 
 
